@@ -2,3 +2,7 @@
 1-listit -- list the content of directory
 2-bring_me_home -- return user to the $HOME
 3-listfiles -- long list the content of a directory
+4-listmorefiles -- long list hidden files also
+5-listfilesdigitonly -- long list files alongside user and group ID
+6-firstdirectory -- creates a new directory in /tmp folder
+7-movethatfile -- moves file "betty" in /tmp to directory "my_first_directory" in /tmp
