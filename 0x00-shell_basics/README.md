@@ -6,3 +6,6 @@
 5-listfilesdigitonly -- long list files alongside user and group ID
 6-firstdirectory -- creates a new directory in /tmp folder
 7-movethatfile -- moves file "betty" in /tmp to directory "my_first_directory" in /tmp
+8-firstdelete -- delete file betty in /tmp/my_first_directory
+9-firstdirdeletion -- delete the directory my_first_directory
+10-back -- changes working directory to the previous one
