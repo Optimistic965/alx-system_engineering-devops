@@ -9,3 +9,5 @@
 8-firstdelete -- delete file betty in /tmp/my_first_directory
 9-firstdirdeletion -- delete the directory my_first_directory
 10-back -- changes working directory to the previous one
+11-lists --  list the content of the current working directory, it's parent and the /boot directory, in that other
+12-file_type -- check for type of file "iamafile"
